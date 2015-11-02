@@ -54,7 +54,7 @@ paymentViewController.dismissViewControllerAnimated(true, completion: nil)
 ```
 ## 到这里就可以实现信用卡的扫描并且返回结果了
 
-[项目地址](http://pan.baidu.com/s/1jGGWiCu "")
+[项目地址](https://github.com/chendisun/CardIOTest.git "")
 
 
 
